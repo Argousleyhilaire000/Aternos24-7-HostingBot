@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
-    "version": "",
+    "ip": "Kiwiblock.aternos.me",
+    "port": 54776,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
